@@ -1,0 +1,1 @@
+export { callGetDataWorker } from './getData';
